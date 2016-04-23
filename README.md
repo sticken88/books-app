@@ -8,7 +8,7 @@ Web application where users can review books and add their favourite quotes.
 ## Dependencies
 
 ### Installing PostgreSQL dirver for Django
-sudo apt-get install python-psycopg2
-sudo apt-get install libpq-dev
-sudo pip install psycopg2
+ˋˋsudo apt-get install python-psycopg2ˋˋ
+ˋˋsudo apt-get install libpq-devˋˋ
+ˋˋsudo pip install psycopg2ˋˋ
 
