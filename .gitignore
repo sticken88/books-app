@@ -1,0 +1,3 @@
+# exclude *.pyc and *~
+*.pyc
+*~
